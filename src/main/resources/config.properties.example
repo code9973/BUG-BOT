@@ -1,0 +1,5 @@
+bot.token=YOUR_BOT_TOKEN
+bot.username=YOUR_BOT_USERNAME
+db.url=jdbc:sqlite:bugs.db
+report.minute_of_day=540
+report.interval_hours=24

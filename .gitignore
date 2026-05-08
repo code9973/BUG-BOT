@@ -1,0 +1,17 @@
+target/
+logs/
+run/
+
+*.db
+*.db-shm
+*.db-wal
+
+src/main/resources/config.properties
+
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+*.log
